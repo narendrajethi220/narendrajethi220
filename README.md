@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://softwareengineernarendrajethi.netlify.app/](https://narendrajethi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://narendrajethi.netlify.app/](https://narendrajethi.netlify.app/)
 
 - 💬 Ask me about **Programming Languages, Web Development, Cyber Security and Cloud Technologies.**
 
