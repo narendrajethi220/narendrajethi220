@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19FSO0JiuPxP6sstDrHYrtuSzWpfkUioT/view?usp=sharing](https://drive.google.com/file/d/19FSO0JiuPxP6sstDrHYrtuSzWpfkUioT/view?usp=sharing)
 
-- ⚡ Fun fact **More Power Brings More Responsibility.**
+- ⚡ Fun fact **More Money Brings More Responsibility.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
