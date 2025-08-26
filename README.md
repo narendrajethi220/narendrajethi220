@@ -1,4 +1,4 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/54278a00-a679-46e3-b351-d350af1aa947" /><img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/79c637f0-fbed-4651-a935-1938f5ee58c9" /><h1 align="center">Hi 👋, I'm Narendra Singh Jethi</h1>
+<h1 align="center">Hi 👋, I'm Narendra Singh Jethi</h1>
 <h3 align="center">Backend Developer | MERN Stack Developer | Cloud </h3>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <a href="https://www.hackerrank.com/narendrajethi220" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-2EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://www.leetcode.com/narendrajethi" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/narendrajethi" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://auth.geeksforgeeks.org/user/narendrajethi" target="_blank"><img src="https://www.dio.me/articles/vantagens-da-utilizacao-da-aws"/></a> 
+
 </p>
 
 ---
