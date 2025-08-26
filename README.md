@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narendrajethi220&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendrajethi220&theme=onedark&margin-w=10&margin-h=10&column=7" alt="Trophies" /></a>
+<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narendrajethi220&theme=onedark&margin-w=10&margin-h=10&column=7" alt="Trophies" /></a> -->
 </p>
 
 ---
@@ -45,9 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=narendrajethi220&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrajethi220&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrajethi220&theme=radical" alt="GitHub Streak" /> -->
+<!-- </p> -->
 
 ---
 
