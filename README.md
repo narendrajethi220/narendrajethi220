@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh Jethi</h1>
-<h3 align="center">Backend Developer | MERN Stack Developer | Cloud </h3>
+<h3 align="center">Backend Development | Full Stack Development | DevOps </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narendrajethi220&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
