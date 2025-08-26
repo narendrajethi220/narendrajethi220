@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 I’m a **MERN Stack Developer**  
+- 🌱 I’m a **Software Engineer**  
 - 💬 Ask me about **Programming, Web Development, Cyber Security, and Cloud Technologies**  
 - 👨‍💻 Check out my portfolio: [narendrajethi.netlify.app](https://narendrajethi.netlify.app/)  
 - 📫 Reach me at: **narendrajethi220@gmail.com**  
@@ -36,13 +36,13 @@
 
 ---
 
-### 📊 GitHub Stats  
+<!--  ### 📊 GitHub Stats  -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrajethi220&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrajethi220&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrajethi220&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=narendrajethi220&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /> -->
 </p>
 
 <!-- <p align="center"> -->
