@@ -13,7 +13,7 @@
 - 💬 Ask me about **Programming, Web Development, Cyber Security, and Cloud Technologies**  
 - 👨‍💻 Check out my portfolio: [narendrajethi.netlify.app](https://narendrajethi.netlify.app/)  
 - 📫 Reach me at: **narendrajethi220@gmail.com**  
-- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/19FSO0JiuPxP6sstDrHYrtuSzWpfkUioT/view?usp=sharing)  
+- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1PXO9WIRa9nUCGkLRe_I4J0hEsabAt9ws/view?usp=sharing)  
 - ⚡ Fun fact: *The question of whether a computer can think is no more interesting than the question of whether a submarine can swim*.  
 
 ---
