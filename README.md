@@ -10,10 +10,8 @@
 
 ### 👨‍💻 About Me  
 - 🌱 I’m a **Software Engineer**  
-- 💬 Ask me about **Programming, Web Development, Big Data Analyitc, and Cloud Technologies**  
-- 👨‍💻 Check out my portfolio: [narendrajethi.netlify.app](https://narendrajethi.netlify.app/)  
+- 💬 Ask me about **Programming, Web Development, Big Data Analyitc, and Cloud Technologies**    
 - 📫 Reach me at: **narendrajethi220@gmail.com**  
-- 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1PXO9WIRa9nUCGkLRe_I4J0hEsabAt9ws/view?usp=sharing)  
 - ⚡ Fun fact: *The question of whether a computer can think is no more interesting than the question of whether a submarine can swim*.  
 
 ---
