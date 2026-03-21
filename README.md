@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh Jethi</h1>
-<h3 align="center">Backend Development | Full Stack Development | DevOps(Exploring...🧗) </h3>
+<h3 align="center"> Big Data Analytic | Backend Development | Full Stack Development </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narendrajethi220&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 I’m a **Software Engineer**  
-- 💬 Ask me about **Programming, Web Development, Cyber Security, and Cloud Technologies**  
+- 💬 Ask me about **Programming, Web Development, Big Data Analyitc, and Cloud Technologies**  
 - 👨‍💻 Check out my portfolio: [narendrajethi.netlify.app](https://narendrajethi.netlify.app/)  
 - 📫 Reach me at: **narendrajethi220@gmail.com**  
 - 📄 My Resume: [Google Drive Link](https://drive.google.com/file/d/1PXO9WIRa9nUCGkLRe_I4J0hEsabAt9ws/view?usp=sharing)  
