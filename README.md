@@ -75,19 +75,6 @@
 
 ---
 
-### 🚀 Featured Project
-
-#### ✈️ Real-Time Flight Tracking ETL Pipeline
-`Python · Apache Kafka · PySpark · MySQL`
-
-- Building a real-time ETL pipeline ingesting live flight telemetry from the **OpenSky API** at 30-second intervals
-- Implementing **Kafka producer-consumer architecture** for continuous data stream ingestion
-- Developing **PySpark Structured Streaming** jobs for near real-time data cleaning & transformation
-- Integrating **MySQL** for historical flight telemetry storage and analytical querying
-- Analytics include: flights per country, average altitude, speed distribution & traffic trend analysis
-
----
-
 ### 🏅 Certifications
 
 - 🔷 [**Microsoft Certified: Azure Fundamentals**](https://www.credly.com/badges/4b9bb54e-0919-43cd-b2d8-9603504ee5d0/public_url)
