@@ -1,4 +1,3 @@
-<img width="1440" height="3262" alt="image" src="https://github.com/user-attachments/assets/4fb21c6c-536a-4fa2-8cdc-af0c26d0f1a1" />
 <h1 align="center">Hi 👋, I'm Narendra Singh Jethi</h1>
 <h3 align="center">Software Engineer · Big Data Engineer · Backend & Full Stack Developer</h3>
 
