@@ -11,7 +11,6 @@
 
 - 🎓 Pursuing **PG Certification in Big Data Analytics (PGCP-BDA)** at **CDAC Mumbai**
 - 💼 **1+ year of experience** in Backend Development, Cloud Deployment & Real-Time Systems
-- 🔭 Currently building a **Real-Time Flight Tracking ETL Pipeline** using Kafka, PySpark & MySQL
 - 🌱 Deepening expertise in **Hadoop, Spark, Hive, Kafka & Data Engineering**
 - 🤝 Open to opportunities in **Data Engineering, Big Data & Backend Development**
 - 📫 Reach me at: **narendrajethi220@gmail.com**
