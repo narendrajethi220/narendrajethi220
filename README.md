@@ -79,10 +79,10 @@ narendra = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=narendrajethi220&show_icons=true&theme=github_dark&border_color=30363d&title_color=3fb950&icon_color=3fb950&text_color=e6edf3&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrajethi220&layout=compact&theme=github_dark&border_color=30363d&title_color=3fb950&text_color=e6edf3&bg_color=0d1117&hide_border=false" height="165" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=narendrajethi220&theme=github-dark-blue&border=30363d&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&hide_border=false" />
