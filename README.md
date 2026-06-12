@@ -20,7 +20,6 @@ narendra = {
     "role"       : ["Software Engineer", "Big Data Engineer", "Backend Developer"],
     "education"  : "PG Certificate in Big Data Analytics @ CDAC Mumbai",
     "experience" : "1+ year in Backend Dev, Cloud & Real-Time Systems",
-    "building"   : "Real-Time Flight Tracking ETL Pipeline",
     "learning"   : ["Apache Kafka", "PySpark", "Hive", "Hadoop"],
     "seeking"    : "Data Engineering | Big Data | Backend Roles",
     "location"   : "Navi Mumbai, Maharashtra, India",
@@ -77,25 +76,6 @@ narendra = {
 
 ---
 
-## 🚀 Featured Project
-
-### ✈️ Real-Time Flight Tracking ETL Pipeline
-
-```
-OpenSky API  →  Apache Kafka  →  PySpark Streaming  →  MySQL  →  Analytics
-   (30s)         (Producer/         (Clean &            (Store)    (Trends,
-               Consumer)           Transform)                     Altitude,
-                                                                   Speed)
-```
-
-> `Python` · `Apache Kafka` · `PySpark` · `MySQL`
-
-- Ingesting live flight telemetry from OpenSky API at **30-second intervals**
-- Kafka producer-consumer architecture for continuous high-throughput data streams
-- PySpark Structured Streaming for near real-time cleaning & transformation
-- Analytics: flights per country, average altitude, speed distribution & traffic trends
-
----
 
 ## 📊 GitHub Stats
 
@@ -108,39 +88,6 @@ OpenSky API  →  Apache Kafka  →  PySpark Streaming  →  MySQL  →  Analyti
   <img src="https://streak-stats.demolab.com?user=narendrajethi220&theme=github-dark-blue&border=30363d&ring=3fb950&fire=ff6b35&currStreakLabel=3fb950&hide_border=false" />
 </p>
 
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/narendrajethi220/narendrajethi220/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-> ⚙️ **To enable the snake animation**, create `.github/workflows/snake.yml` in this repo with the following:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: narendrajethi220
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
