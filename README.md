@@ -44,8 +44,8 @@
                     "languages" : ["Python", "SQL", "Java", "R", "C++"],
                     "backend"   : ["Node.js", "Express.js", "React", "MongoDB", "MySQL"]
                   },
-  "seeking"     : "Data Engineering | Big Data | Backend Roles",
-  "contact"     : "narendrajethi220@gmail.com",
+  "seeking"     : "Data Engineering | Big Data | Backend Roles | AI/ML Engineer",
+  "contact"     : "narendrajethi20@gmail.com",
   "fun_fact"    : "The question of whether a computer can think is no more
                    interesting than the question of whether a submarine can swim."
 }
