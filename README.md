@@ -34,7 +34,7 @@
 ```json
 {
   "name"        : "Narendra Singh Jethi",
-  "role"        : ["Software Engineer", "Big Data Engineer", "Backend Developer"],
+  "role"        : ["Software Engineer", "Big Data Engineer", "Backend Developer","AI/ML Engineer"],
   "education"   : "PG Certificate in Big Data Analytics (PGCP-BDA) @ CDAC Mumbai",
   "experience"  : "1+ year — Backend Dev | Cloud Deployment | Real-Time Systems",
   "current"     : "Building Real-Time Flight Tracking ETL Pipeline",
