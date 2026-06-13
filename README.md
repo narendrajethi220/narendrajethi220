@@ -12,7 +12,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&multiline=false&width=800&height=60&lines=%24+whoami+%3A%3A+Narendra+Singh+Jethi" alt="whoami" />
 
 <!-- ROLE CYCLING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=%5BROLE%5D+Software+Engineer+%7C+Big+Data+Engineer+%7C+Backend+Developer;%5BSTACK%5D+Kafka+%7C+PySpark+%7C+Hadoop+%7C+Hive+%7C+AWS+%7C+Docker;%5BSTATUS%5D+Building+pipelines+that+never+sleep...;%5BSEEK%5D+Open+to+Data+Engineering+%26+Big+Data+roles" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=600&color=58A6FF&center=true&vCenter=true&width=800&height=40&lines=%5BROLE%5D+Software+Engineer+%7C+Big+Data+Engineer+%7C+AI+ML+Engineer+%7C+Backend+Developer;%5BSTACK%5D+Kafka+%7C+PySpark+%7C+Hadoop+%7C+Hive+%7C+AWS+%7C+Docker;%5BSTATUS%5D+Building+pipelines+that+never+sleep...;%5BSEEK%5D+Open+to+Data+Engineering+%26+Big+Data+roles" alt="roles" />
 
 <br/>
 
