@@ -136,38 +136,6 @@ problem-solving                    1             1         ● ACTIVE
 <img src="https://raw.githubusercontent.com/narendrajethi220/narendrajethi220/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
-<details>
-<summary>⚙️ Click to setup Snake Animation (one-time)</summary>
-
-Create `.github/workflows/snake.yml` in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: narendrajethi220
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
----
-
 ## `> cat certifications.txt`
 
 ```
